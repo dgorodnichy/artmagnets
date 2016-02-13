@@ -145,7 +145,7 @@ ul, ol {
 	padding: 100px 0;
 	text-align: center;
 	color: #fff;
-	background: url(../img/intro-bg.jpg) no-repeat bottom center fixed;
+	background: url(../img/intro-bg.png) no-repeat bottom center fixed;
 	background-color: #000;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -160,14 +160,15 @@ ul, ol {
 	font-size: 8em;
 	font-weight: 700;
 	letter-spacing: -2px;
-	color: rgba(255,255,255,0.7);
+	color: #754747;
+	/* color: rgba(255,255,255,0.7); */
 }
 #intro .intro-body .brand-heading {
 	text-transform: uppercase;
 	letter-spacing: 2px;
 	border-top: 1px solid rgba(255,255,255,0.4);
 	border-bottom: 1px solid rgba(255,255,255,0.4);
-	padding: 30px 0 60px 0;
+	padding: 30px 0 150px 0;
 }
 #intro .intro-body .intro-text {
 	font-size: 18px;
@@ -182,7 +183,8 @@ ul, ol {
 	font-size: 18px;
 	letter-spacing: 1px;
 	margin-bottom: 100px;
-	color: rgba(255,255,255,0.9);
+	/* color: rgba(255,255,255,0.9); */
+	color: #754747;
 }
 }
 .btn-default {
