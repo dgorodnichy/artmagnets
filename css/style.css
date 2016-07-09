@@ -487,12 +487,12 @@ img.img-thumbnail.team-img {
 	border-right: 14px solid transparent;
 }
 #testimonials blockquote img {
-	height: 70px;
-	width: 70px;
-	position: absolute;
-	bottom: -95px;
-	left: 50%;
-	margin-left: -34px;
+	height: 100px;
+	width: 100px;
+	/* position: absolute; */
+	/* bottom: -95px; */
+	/* left: 50%; */
+	/* margin-left: -34px; */
 }
 #testimonials .clients-name {
 	position: absolute;
@@ -641,4 +641,8 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 #intro .intro-body H1 {
 	font-size: 5em;
 }
+}
+
+.author_site {
+  color: #F4D03F;
 }
